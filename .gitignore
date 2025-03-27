@@ -41,9 +41,6 @@ vignettes/*.pdf
 .Renviron
 .Rprofile
 
-# pkgdown site
-docs/
-
 # translation temp files
 po/*~
 
