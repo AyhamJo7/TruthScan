@@ -1,6 +1,6 @@
 # TruthScan: Modern Fake News Detection
 
-![TruthScan Logo](docs/images/truthscan_logo.png)
+![TruthScan Logo](truthscan.png)
 
 TruthScan is a state-of-the-art fake news detection system built in R that uses machine learning to analyze statements and determine their veracity. This project is an enhanced version of a fake news detection system originally developed for analyzing political statements from the 2016 US elections.
 
